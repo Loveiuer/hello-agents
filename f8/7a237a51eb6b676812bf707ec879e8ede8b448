@@ -1,0 +1,93 @@
+Co-creation-projects/Loveiuer-FrameCraft/.env.example
+  s_3e3c6cbd85d76b::t_a1c870e676b246 1-12
+Co-creation-projects/Loveiuer-FrameCraft/.gitignore
+  s_3e3c6cbd85d76b::t_eec43817f46a9a 1-16
+Co-creation-projects/Loveiuer-FrameCraft/LICENSE
+  s_3e3c6cbd85d76b::t_1ea57b8d66a228 1-437
+Co-creation-projects/Loveiuer-FrameCraft/README.md
+  s_3e3c6cbd85d76b::t_0c136caf5c2814 1-182
+Co-creation-projects/Loveiuer-FrameCraft/d2c/__init__.py
+  s_3e3c6cbd85d76b::t_cdc879d42680b1 1-3
+Co-creation-projects/Loveiuer-FrameCraft/d2c/agents.py
+  s_3e3c6cbd85d76b::t_7e57652fcb9698 1-426
+Co-creation-projects/Loveiuer-FrameCraft/d2c/artifacts.py
+  s_3e3c6cbd85d76b::t_7f049cd25f7ecb 1-40
+Co-creation-projects/Loveiuer-FrameCraft/d2c/compiler.py
+  s_3e3c6cbd85d76b::t_fa9bca5f32ebbd 1-192
+Co-creation-projects/Loveiuer-FrameCraft/d2c/design.py
+  s_3e3c6cbd85d76b::t_2f7aa3cb53b116 1-253
+Co-creation-projects/Loveiuer-FrameCraft/d2c/figma.py
+  s_3e3c6cbd85d76b::t_0eba1965208c72 1-72
+Co-creation-projects/Loveiuer-FrameCraft/d2c/pipeline.py
+  s_3e3c6cbd85d76b::t_ff6fc9c52a5808 1-322
+Co-creation-projects/Loveiuer-FrameCraft/d2c/server.py
+  s_3e3c6cbd85d76b::t_f572d0cc2b0068 1-211
+Co-creation-projects/Loveiuer-FrameCraft/data/sample-design.json
+  s_3e3c6cbd85d76b::t_a0befac4f87738 1-2869
+Co-creation-projects/Loveiuer-FrameCraft/data/smoke-design.json
+  s_3e3c6cbd85d76b::t_da6e0c450b0aa3 1-16
+Co-creation-projects/Loveiuer-FrameCraft/docs/architecture.md
+  s_3e3c6cbd85d76b::t_1c4490dc85522c 1-94
+Co-creation-projects/Loveiuer-FrameCraft/docs/browser-report.json
+  s_3e3c6cbd85d76b::t_a2358b882414d3 1-41
+Co-creation-projects/Loveiuer-FrameCraft/docs/defense.md
+  s_3e3c6cbd85d76b::t_182f1b862e6b9b 1-78
+Co-creation-projects/Loveiuer-FrameCraft/docs/evaluation.json
+  s_3e3c6cbd85d76b::t_648eefb757aeac 1-230
+Co-creation-projects/Loveiuer-FrameCraft/docs/live-smoke/agent-trace.json
+  s_3e3c6cbd85d76b::t_0ebe5da67e02ce 1-57
+Co-creation-projects/Loveiuer-FrameCraft/docs/live-smoke/component-plan.json
+  s_3e3c6cbd85d76b::t_1f1401b6870d34 1-39
+Co-creation-projects/Loveiuer-FrameCraft/docs/live-smoke/design-analysis.json
+  s_3e3c6cbd85d76b::t_dc90be312e4b13 1-16
+Co-creation-projects/Loveiuer-FrameCraft/docs/live-smoke/review-report.json
+  s_3e3c6cbd85d76b::t_d7a210a9a71694 1-101
+Co-creation-projects/Loveiuer-FrameCraft/docs/submission-validation.json
+  s_3e3c6cbd85d76b::t_226ad0b8fc70bc 1-38
+Co-creation-projects/Loveiuer-FrameCraft/docs/submission.md
+  s_3e3c6cbd85d76b::t_62ef8f393705cb 1-48
+Co-creation-projects/Loveiuer-FrameCraft/docs/validation.json
+  s_3e3c6cbd85d76b::t_7452ecd23737aa 1-138
+Co-creation-projects/Loveiuer-FrameCraft/evaluate.py
+  s_3e3c6cbd85d76b::t_889a1cb7fefcef 1-59
+Co-creation-projects/Loveiuer-FrameCraft/main.ipynb
+  s_3e3c6cbd85d76b::t_7634f446ef7e77 1-201
+Co-creation-projects/Loveiuer-FrameCraft/main.py
+  s_3e3c6cbd85d76b::t_a32bf53d93c0e8 1-74
+Co-creation-projects/Loveiuer-FrameCraft/requirements-notebook.txt
+  s_3e3c6cbd85d76b::t_75d79f61e8abbb 1-4
+Co-creation-projects/Loveiuer-FrameCraft/requirements.txt
+  s_3e3c6cbd85d76b::t_fa025e7ebc60e7 1-7
+Co-creation-projects/Loveiuer-FrameCraft/tests/browser-smoke.mjs
+  s_3e3c6cbd85d76b::t_9c9b489635bbd3 1-73
+Co-creation-projects/Loveiuer-FrameCraft/tests/test_compiler.py
+  s_3e3c6cbd85d76b::t_65c40779e618b9 1-159
+Co-creation-projects/Loveiuer-FrameCraft/tests/test_figma.py
+  s_3e3c6cbd85d76b::t_573cbd573e820e 1-45
+Co-creation-projects/Loveiuer-FrameCraft/tests/test_pipeline.py
+  s_3e3c6cbd85d76b::t_211fe0d9230e02 1-300
+Co-creation-projects/Loveiuer-FrameCraft/tests/test_server.py
+  s_3e3c6cbd85d76b::t_a504cbc409e55f 1-95
+Co-creation-projects/Loveiuer-FrameCraft/web/app.js
+  s_3e3c6cbd85d76b::t_4068e502aaf2e1 1-456
+Co-creation-projects/Loveiuer-FrameCraft/web/index.html
+  s_3e3c6cbd85d76b::t_3f6611a6c8b58c 1-103
+Co-creation-projects/Loveiuer-FrameCraft/web/styles.css
+  s_3e3c6cbd85d76b::t_eb0099b34b4028 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "f87a237a51eb6b676812bf707ec879e8ede8b448",
+  "prompts": {},
+  "sessions": {
+    "s_3e3c6cbd85d76b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ee64-830c-73a2-92b1-ce8eeee77878",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Loveiuer <87800891+Loveiuer@users.noreply.github.com>"
+    }
+  }
+}
